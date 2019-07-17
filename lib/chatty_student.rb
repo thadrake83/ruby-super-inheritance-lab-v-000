@@ -9,7 +9,7 @@ end
 
 def raise_hand
 10.times do
-  suer
+  super
 end
 
 end
