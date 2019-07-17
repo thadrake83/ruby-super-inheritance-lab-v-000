@@ -9,7 +9,7 @@ end
 
 def raise_hand
   super
-  5 * puts "Pick me!"
+  5.times "Pick me!"
 end
 
 end
