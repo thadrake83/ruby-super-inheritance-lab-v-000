@@ -26,14 +26,7 @@ def raise_hand
   puts "Pick me!"
   super
   puts "Pick me!"
-  super
-  puts "Pick me!"
-  super
-  puts "Pick me!"
-  super
-  puts "Pick me!"
-  super
-  puts "Pick me!"
+
 
 end
 
