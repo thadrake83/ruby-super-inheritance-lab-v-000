@@ -9,7 +9,7 @@ end
 
 def raise_hand
   super
-  10.times "Pick me!"
+  10.times{super}
 end
 
 end
