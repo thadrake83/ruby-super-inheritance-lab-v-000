@@ -9,7 +9,7 @@ end
 
 def raise_hand
   super
-  puts "Pick me!" x 10
+  puts 10 "Pick me!" 
 end
 
 end
