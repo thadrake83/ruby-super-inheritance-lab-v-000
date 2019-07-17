@@ -9,7 +9,16 @@ end
 
 def raise_hand
   super
-  10.times{super}
+  puts "Pick me!"
+  puts "Pick me!"
+  puts "Pick me!"
+  puts "Pick me!"
+  puts "Pick me!"
+  puts "Pick me!"
+  puts "Pick me!"
+  puts "Pick me!"
+  puts "Pick me!"
+  puts "Pick me!"
 end
 
 end
